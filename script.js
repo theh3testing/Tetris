@@ -742,5 +742,4 @@ class Position {
    board.rightKeyPress();
  })
 
- //listo chic@s asi quedo el resultado, requerda que si quieres este proyecto el link//
- //estara en la descripcion, requerda suscribirte y activar la campanita de notificaciones//
+ //Recuerden suscribirse a mi canal de youtube @PablooCode
